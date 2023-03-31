@@ -4,14 +4,14 @@ assistant chatbot for managing patients
 # Setup
 For Voice Recognition, we need to install SpeechRecognition,
 PyAudio, pyttsx3, gTTS libraries with following commands.
-- pip install speechrecognition
-- pip install pyaudio
-- pip install pyttsx3
-- pip install gTTS
+  - pip install speechrecognition
+  - pip install pyaudio
+  - pip install pyttsx3
+  - pip install gTTS
 For Plots, we install the matplotlib library:
-- pip install matplotlib
+  - pip install matplotlib
 Run the program:
-- python chat.py
+  - python chat.py
 
 # Functionality:
 In The main window you can ask for reports of certain patients. Use send button or enter key to send text messages to the bot, use talk button to send
