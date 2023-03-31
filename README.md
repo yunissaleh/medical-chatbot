@@ -16,10 +16,10 @@ Run the program:
 # Functionality:
 In The main window you can ask for reports of certain patients. Use send button or enter key to send text messages to the bot, use talk button to send
 a voice message, example:
-Input: "Give me my report" 
-Output: "Okay, I'll look for it. but first, what's the patient's id? 
-Input: "id is 3"
-Output: John's condition of emergency severity can lead to Ashtma, Diabetes.
+- Input: "Give me my report" 
+- Output: "Okay, I'll look for it. but first, what's the patient's id? 
+- Input: "id is 3"
+- Output: John's condition of emergency severity can lead to Ashtma, Diabetes.
 
 If you give an ID that doesn’t exist, it’ll ask you to add patient. Press Add button to open the Register menu. After registering, you can ask for the report again. 
 
