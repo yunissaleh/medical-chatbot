@@ -8,8 +8,10 @@ PyAudio, pyttsx3, gTTS libraries with following commands.
   - pip install pyaudio
   - pip install pyttsx3
   - pip install gTTS
+
 For Plots, we install the matplotlib library:
   - pip install matplotlib
+
 Run the program:
   - python chat.py
 
